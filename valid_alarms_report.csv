@@ -1,0 +1,13 @@
+timestamp,sensor_type,location,status,duration_seconds
+2023-10-27T23:15:30,door,front_entrance,active,14
+2023-10-27T23:42:10,motion,living_room,active,45
+2023-10-28T00:05:00,window,kitchen,active,120
+2023-10-28T01:30:45,glass_break,garage,active,5
+2023-10-28T02:45:10,motion,hallway,active,3
+2023-10-28T03:10:05,window,basement,active,300
+2023-10-28T03:50:40,door,garage_internal,active,50
+2023-10-28T04:18:20,glass_break,kitchen,active,2
+2023-10-28T04:45:30,motion,backyard,active,8
+2023-10-28T05:30:20,window,master_bedroom,active,45
+2023-10-28T05:50:05,motion,hallway,active,15
+2023-10-28T06:10:30,door,back_door,active,12
