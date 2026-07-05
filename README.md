@@ -1,4 +1,4 @@
-"""# The SECOM Alarm Log Analyzer
+## The SECOM Alarm Log Analyzer
 
 This Python project is a data pipeline designed to ingest, clean, and report on security sensor events. It demonstrates fundamental backend concepts including file handling, object-oriented programming, and conditional data filtering.
 
